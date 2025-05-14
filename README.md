@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello World. Im Farrel Maulana 👋
+![Farrelmaulana31](img/foto.jpg)
 <!--
 **Farrelmaulana31/Farrelmaulana31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on Bun Catering as a Business Analyst
+🌱 I’m currently learning Data Science
+
